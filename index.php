@@ -48,7 +48,7 @@
                 <h2>Software Developer -  Application Support Maintenance</h2>
                 <div class="redes">
                     <a href="https://github.com/agusinsa"><i class="fa-brands fa-github"></i></a>
-                    <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BkNb%2BMoLLQVePnkYDqwSgSQ%3D%3D"><i class="fa-brands fa-linkedin"></i></a>
+                    <a href="https://www.linkedin.com/in/agus-insa/"><i class="fa-brands fa-linkedin"></i></a>
                     <a href="mailto:agusinsa2412@gmail.com"><i class="fa-brands fa-google"></i></a>
                     <a href="https://wa.me/5491167987583"><i class="fa-brands fa-whatsapp"></i></a>
                 </div>
@@ -364,7 +364,7 @@
         </a>
         <div class="redes">
             <a href="https://github.com/agusinsa"><i class="fa-brands fa-github"></i></a>
-            <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BkNb%2BMoLLQVePnkYDqwSgSQ%3D%3D"><i class="fa-brands fa-linkedin"></i></a>
+            <a href="https://www.linkedin.com/in/agus-insa/"><i class="fa-brands fa-linkedin"></i></a>
             <a href="mailto:agusinsa2412@gmail.com"><i class="fa-brands fa-google"></i></a>
             <a href="https://wa.me/5491167987583"><i class="fa-brands fa-whatsapp"></i></a>
         </div>
